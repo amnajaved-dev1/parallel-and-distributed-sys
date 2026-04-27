@@ -88,3 +88,12 @@ Metric	Value
 Total Revenue	2.6M+
 Top Product	Phone
 Best Category	Electronics
+
+# 📸 Screenshots
+https://github.com/amnajaved-dev1/parallel-and-distributed-sys/blob/main/Spark%20setup.png
+
+https://github.com/amnajaved-dev1/parallel-and-distributed-sys/blob/main/Graph%20(VERY%20IMPORTANT).png
+
+https://github.com/amnajaved-dev1/parallel-and-distributed-sys/blob/main/ETL%20transformation.png
+
+https://github.com/amnajaved-dev1/parallel-and-distributed-sys/blob/main/DataFrame%20output.png
