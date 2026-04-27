@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5-orange)
+![Platform](https://img.shields.io/badge/Platform-Google%20Colab-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 📊 Distributed Data Processing using Apache Spark (Google Colab)
 🚀 Project Overview
 
