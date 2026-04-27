@@ -92,7 +92,7 @@ Best Category	Electronics
 
 ![Spark Setup](Spark%20setup.png)
 
-Graph (VERY IMPORTANT).png
+G![Graph](graph.png)
 
 ![ETL](ETL%20transformation.png)
 
