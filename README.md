@@ -25,12 +25,17 @@ Matplotlib 📊
 ├── cleaned_output/
 ├── report/
 └── README.md
+
 🔄 Workflow
+
 1️⃣ Data Generation
+
 Created synthetic dataset (1000 records)
 Included missing values (NULLs)
 Simulated real-world sales data
+
 2️⃣ ETL Pipeline (Spark Transformations)
+
 Data cleaning (removed NULL values)
 Removed duplicates
 Created new columns:
@@ -41,28 +46,38 @@ Applied transformations:
 filter()
 groupBy()
 reduce()
+
 3️⃣ Data Analysis (Spark SQL)
+
 Converted DataFrame → SQL Table
 Executed queries:
 Total revenue
 Category-wise sales
 Product-wise sales
 Top transactions
+
 4️⃣ Performance Comparison
+
 Implemented same logic in:
 Pure Python
 Spark (RDD)
 Measured execution time
 
+
 📊 Result:
+
 
 Python faster for small data
 Spark scalable for large datasets
+
 📈 Visualization
+
 Bar chart comparing execution time:
 Python vs Spark
 Implemented using Matplotlib
+
 📊 Sample Results
+
 Metric	Value
 Total Revenue	2.6M+
 Top Product	Phone
