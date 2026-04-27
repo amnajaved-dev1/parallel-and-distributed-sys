@@ -100,4 +100,4 @@ Best Category	Electronics
 ![ETL](https://github.com/amnnajaved-dev1/parallel-and-distributed-sys/raw/main/ETL%20transformation.png)
 
 ### 🔹 DataFrame Output
-![DataFrame](https://github.com/amnnajaved-dev1/parallel-and-distributed-sys/raw/main/DataFrame%20output.png)
+https://github.com/amnajaved-dev1/parallel-and-distributed-sys/blob/main/DataFrame%20output.png
