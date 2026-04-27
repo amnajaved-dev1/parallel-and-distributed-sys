@@ -90,14 +90,10 @@ Top Product	Phone
 Best Category	Electronics
 ## 📸 Screenshots
 
-### 🔹 Spark Setup
-![Spark Setup](https://github.com/amnnajaved-dev1/parallel-and-distributed-sys/raw/main/Spark%20setup.png)
+![Spark Setup](Spark%20setup.png)
 
-### 🔹 Performance Graph
-![Graph](https://github.com/amnnajaved-dev1/parallel-and-distributed-sys/raw/main/Graph%20(VERY%20IMPORTANT).png)
+![Graph](Graph%20(Very%20IMPORTANT).png)
 
-### 🔹 ETL Transformation
-![ETL](https://github.com/amnnajaved-dev1/parallel-and-distributed-sys/raw/main/ETL%20transformation.png)
+![ETL](ETL%20transformation.png)
 
-### 🔹 DataFrame Output
-https://github.com/amnajaved-dev1/parallel-and-distributed-sys/blob/main/DataFrame%20output.png
+![DataFrame](DataFrame%20output.png)
